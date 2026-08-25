@@ -1,0 +1,5 @@
+timeout-seconds: 15
+
+death-display-seconds: 3
+
+actionbar-format: "&e%player% &8| &cDaño Hecho: &f%damage_dealt% &8| &aDaño Recibido: &f%damage_received%"

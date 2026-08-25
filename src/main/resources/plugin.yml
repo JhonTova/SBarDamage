@@ -1,0 +1,11 @@
+name: SBardamage
+version: 1.0.0
+main: me.sirius.sbardamage.SBardamage
+api-version: '1.21'
+author: Sirius
+description: Sistema de daño en actionbar con seguimiento de hasta 3 objetivos
+
+# Sin SiriusCore.jar, Bukkit ni intenta cargar este plugin.
+depend:
+  - SiriusCore
+
